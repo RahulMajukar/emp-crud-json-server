@@ -1,0 +1,16 @@
+table,td,th{
+  border: 2px solid black;
+  border-collapse: collapse;
+  
+}
+
+table{
+  width: 100%;
+}
+
+.heading{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
